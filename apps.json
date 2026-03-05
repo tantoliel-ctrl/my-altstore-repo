@@ -19,7 +19,17 @@
             "tintColor": "#fc0434",
             "category": "entertainment",
             "screenshots": [],
-            "versions": [],
+            "versions": [
+                {
+                    "downloadURL": "https://github.com/tantoliel-ctrl/my-altstore-repo/releases/download/initial/YouTubePlus_5.2b4.ipa",
+                    "size": 122700000,
+                    "version": "20.42.3",
+                    "buildVersion": null,
+                    "date": "2026-03-05T16:27:00+07:00",
+                    "localizedDescription": null,
+                    "minOSVersion": null
+                }
+            ],
             "appPermissions": {
                 "entitlements": [],
                 "privacy": {
